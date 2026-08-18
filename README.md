@@ -1,118 +1,79 @@
-# 📊 E-Commerce Data Analysis Dashboard
+# 📊 E-Commerce Sales Analysis Dashboard
 
-An interactive **Power BI dashboard** built to analyze e-commerce data, identify business trends, and present key insights through clear and interactive visualizations.
+An interactive **Power BI dashboard** built to analyze e-commerce sales data, identify business trends, and generate meaningful insights through KPIs and interactive visualizations.
 
-The project demonstrates practical skills in **Data Analysis, Data Cleaning, Power BI, Excel, Power Query, DAX, and Data Visualization**.
+This project demonstrates practical skills in **Power BI, Excel, Power Query, DAX, Data Analysis, Data Modeling, and Data Visualization**.
 
 ---
 
 ## 🚀 Project Overview
 
-The **E-Commerce Data Analysis Dashboard** transforms raw e-commerce data into an interactive business intelligence dashboard.
+The **E-Commerce Sales Analysis Dashboard** transforms raw e-commerce data into an interactive Business Intelligence dashboard.
 
-The analysis helps explore sales performance, customer behavior, product/category performance, and overall business trends using interactive Power BI visualizations.
+### Key Analysis Areas
 
-The project follows a complete data analysis workflow:
+- 💰 Sales Performance
+- 📦 Product & Category Analysis
+- 👥 Customer & Order Analysis
+- 📈 Sales Trends
+- 📊 Business KPIs
 
-**Raw Data → Data Cleaning → Data Transformation → Data Modeling → DAX → Visualization → Business Insights**
+**Workflow:**
 
----
-
-## 🎯 Project Objectives
-
-* Analyze e-commerce sales data
-* Understand overall business performance
-* Identify important sales trends
-* Analyze product and category performance
-* Explore customer and order patterns
-* Build meaningful KPIs and visualizations
-* Create an interactive dashboard for business reporting
-* Present data in an easy-to-understand format
+**Raw Data → Data Cleaning → Transformation → Data Modeling → DAX → Visualization → Insights**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool / Technology      | Purpose                                |
-| ---------------------- | -------------------------------------- |
-| **Power BI**           | Dashboard development & visualization  |
-| **Microsoft Excel**    | Data source & initial data preparation |
-| **Power Query**        | Data cleaning & transformation         |
-| **DAX**                | Measures & calculated metrics          |
-| **Data Modeling**      | Organizing data for analysis           |
-| **Data Visualization** | Presenting analytical insights         |
+| Tool | Purpose |
+|---|---|
+| **Power BI** | Dashboard & visualization |
+| **Microsoft Excel** | Data source |
+| **Power Query** | Data cleaning & transformation |
+| **DAX** | Measures & KPIs |
+| **Data Modeling** | Data organization |
 
 ---
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Data Analysis Dashboard](./E-Commerce%20Data%20Analysis.png)
+![E-Commerce Sales Analysis Dashboard](./E-Commerce%20Data%20Analysis.png)
 
-> **Note:** The `.pbix` file is included in this repository for exploring the complete interactive Power BI dashboard.
+The dashboard includes interactive charts, KPIs, filters, and visualizations to explore e-commerce sales performance.
 
 ---
 
-## 🔍 Key Analysis Areas
+## 📌 Key Performance Indicators
 
-### 💰 Sales Analysis
+The dashboard focuses on important business metrics such as:
 
-* Overall sales performance
-* Sales trends
-* Performance comparison across different dimensions
-
-### 📦 Product & Category Analysis
-
-* Product performance
-* Category-level performance
-* Identification of important product/category trends
-
-### 👥 Customer Analysis
-
-* Customer purchasing patterns
-* Customer-related trends
-* Order behavior analysis
-
-### 📈 Business Performance
-
-* Key performance indicators
-* Trend analysis
-* Interactive filtering and drill-down analysis
+- **Total Sales**
+- **Total Orders**
+- **Total Customers**
+- **Average Order Value**
+- **Sales by Category**
+- **Sales by Product**
+- **Sales Trends**
 
 ---
 
 ## 🔄 Data Analysis Workflow
 
 ```text
-                 ┌─────────────────┐
-                 │   Excel Dataset │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │  Data Cleaning  │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │ Power Query     │
-                 │ Transformation  │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │  Data Modeling  │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │ DAX Measures    │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │ Power BI        │
-                 │ Visualization   │
-                 └────────┬────────┘
-                          ↓
-                 ┌─────────────────┐
-                 │ Business        │
-                 │ Insights        │
-                 └─────────────────┘
+Excel Dataset
+      ↓
+Data Cleaning
+      ↓
+Power Query
+      ↓
+Data Modeling
+      ↓
+DAX Measures
+      ↓
+Power BI Dashboard
+      ↓
+Business Insights
 ```
 
 ---
@@ -120,18 +81,12 @@ The project follows a complete data analysis workflow:
 ## 📁 Repository Structure
 
 ```text
-E-Commerce-DataAnalysis/
+E-Commerce-Sales-Analysis/
 │
-├── 📊 E-Commerce-DataAnalysis Dashboard.pbix
-│   └── Interactive Power BI dashboard
-│
-├── 🖼️ E-Commerce-DataAnalysis .png
-│   └── Dashboard preview
-│
+├── 📊 E-Commerce Sales Analysis Dashboard.pbix
+├── 🖼️ E-Commerce Data Analysis.png
 ├── 📂 Data & Resources/
 │   └── 📄 E-Commerce Data.xlsx
-│       └── Source dataset
-│
 └── 📘 README.md
 ```
 
@@ -139,84 +94,48 @@ E-Commerce-DataAnalysis/
 
 ## 💡 Skills Demonstrated
 
-This project demonstrates practical experience with:
-
-* Data Analysis
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis
-* Microsoft Excel
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* Data Visualization
-* Business Intelligence
-* Analytical Thinking
+- Data Analysis
+- Microsoft Excel
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Data Visualization
+- Business Intelligence
 
 ---
 
-## 📌 Key Takeaways
+## 💻 How to Use
 
-Through this project, I practiced converting raw business data into an interactive analytical dashboard.
-
-The project focuses on:
-
-* Preparing and transforming raw data
-* Creating an analysis-ready data model
-* Developing meaningful metrics using DAX
-* Designing interactive Power BI visualizations
-* Communicating analytical findings clearly
-
----
-
-## 💻 How to Use This Project
-
-### 1. Clone the repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/SejalHadole/E-Commerce-DataAnalysis.git
+git clone https://github.com/SejalHadole/E-Commerce-Sales-Analysis.git
 ```
 
-### 2. Open the project
+### Open the Dashboard
 
-Open the following file using **Microsoft Power BI Desktop**:
+Open:
 
 ```text
-E-Commerce-DataAnalysis Dashboard.pbix
+E-Commerce Sales Analysis Dashboard.pbix
 ```
 
-### 3. Explore the dashboard
+using **Microsoft Power BI Desktop**.
 
-Use the available filters, charts, KPIs, and interactive visuals to explore the e-commerce data.
-
----
-
-## 📂 Dataset
-
-The source dataset is provided in the:
-
-```text
-Data & Resources/
-```
-
-folder.
-
-The Excel dataset is used as the source for data preparation, transformation, analysis, and Power BI dashboard development.
+The source Excel dataset is available in the **Data & Resources/** folder.
 
 ---
 
 ## 📈 Future Improvements
 
-Potential improvements for the project include:
-
-* Adding sales forecasting
-* Adding customer segmentation
-* Creating advanced KPI analysis
-* Adding more drill-through pages
-* Implementing automated data refresh
-* Adding advanced time-series analysis
-* Integrating additional business datasets
+- Sales forecasting
+- Customer segmentation
+- Advanced KPI analysis
+- Automated data refresh
+- Advanced time-series analysis
 
 ---
 
@@ -227,5 +146,3 @@ Potential improvements for the project include:
 **Aspiring Data Analyst | Power BI | SQL | Excel | Python**
 
 Interested in transforming data into meaningful insights and building data-driven solutions.
-
----
