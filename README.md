@@ -38,7 +38,7 @@ The **E-Commerce Sales Analysis Dashboard** transforms raw e-commerce data into 
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](./E-Commerce%20Data%20Analysis.png)
+![E-Commerce Sales Analysis Dashboard](./E-Commerce%20Sales%20Analysis%20Image.png)
 
 The dashboard includes interactive charts, KPIs, filters, and visualizations to explore e-commerce sales performance.
 
