@@ -45,7 +45,6 @@ The project follows a complete data analysis workflow:
 ---
 
 ## 📊 Dashboard Preview
-## 📊 Dashboard Preview
 
 ![E-Commerce Data Analysis Dashboard](./E-Commerce%20Data%20Analysis.png)
 
