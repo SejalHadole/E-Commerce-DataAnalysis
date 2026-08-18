@@ -46,7 +46,7 @@ The project follows a complete data analysis workflow:
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Data Analysis Dashboard](E-Commerce Data Analysis%20.png)
+![E-Commerce Data Analysis Dashboard](E-CommerceDataAnalysis%20.png)
 
 > **Note:** The `.pbix` file is included in this repository for exploring the complete interactive Power BI dashboard.
 
